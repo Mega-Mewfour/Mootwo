@@ -13,7 +13,7 @@
     "node": ">= 7.x.x"
   },
   "scripts": {
-    "start": "node index"
+    "start": "node ./index.js"
   },
   "repository": {
     "type": "git",
